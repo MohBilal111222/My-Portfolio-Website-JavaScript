@@ -144,6 +144,21 @@ margin: 70px 0;
 }
 
 
-#html-5 :hover{
+#html-5:hover{
     color: beige;
+}
+#css-5:hover{
+    color: skyblue;
+}
+#javascript-5:hover{
+    color: skyblue;
+}
+#bootstrap-5:hover{
+    color: skyblue;
+}
+#github-5:hover{
+    color: skyblue;
+}
+#react-5:hover{
+    color: rgb(184, 84, 18);
 }
