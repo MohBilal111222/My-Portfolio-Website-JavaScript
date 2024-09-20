@@ -7,7 +7,7 @@
 
 
     var typed = new Typed('#element', {
-        strings: ['Mern Stack Developer', 'Deep Learning Engineer', 'Web Designer', 'Mobile Application Developer'],
+        strings: ['Mern Stack Developer', 'Deep Learning Engineer', 'Web Designer', 'Mobile App Developer'],
         typeSpeed: 50,      // Speed of typing
         backSpeed: 30,      // Speed of backspacing
         loop: true,         // Loop the animation
