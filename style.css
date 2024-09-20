@@ -80,7 +80,7 @@ margin: 70px 0;
 
 
 .rightSection{
-
+    display: flex;
 }
 
 .rightSection img{
