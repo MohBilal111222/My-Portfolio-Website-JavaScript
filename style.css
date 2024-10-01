@@ -115,14 +115,6 @@ margin: 70px 0;
 
 
 
-/* 
-.all-icons-images{
-    margin-top: 30px;
-    display: flex;
-    justify-content: space-around;
-    width: 20px;
-} */
-
 
 
 
@@ -175,3 +167,97 @@ margin: 70px 0;
   .card-button:hover {
     background-color: #0056b3;
   }
+
+
+
+
+
+
+
+
+
+
+
+  .links{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+
+
+
+  .service{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .about{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .projects{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+
+  }
+
+
+
+
+  .abhtml{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+  }
+.hobbies{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.hobbyh2{
+    display: flex;
+    justify-content: center;
+}
+
+.connectabouth3{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.connectabout{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+
+
+
+.servicemain{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+
+
+.contact{
+  display: flex;
+  justify-content: space-around;
+}
