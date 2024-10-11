@@ -16,3 +16,13 @@
         startDelay: 500     // Delay before typing starts
       });
       
+
+
+
+
+
+
+
+      function sendMessage() {
+        alert("Message sent!");
+    }

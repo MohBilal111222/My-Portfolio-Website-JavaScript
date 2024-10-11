@@ -115,14 +115,6 @@ margin: 70px 0;
 
 
 
-/* 
-.all-icons-images{
-    margin-top: 30px;
-    display: flex;
-    justify-content: space-around;
-    width: 20px;
-} */
-
 
 
 
@@ -175,3 +167,413 @@ margin: 70px 0;
   .card-button:hover {
     background-color: #0056b3;
   }
+
+
+
+
+
+
+
+
+
+
+
+  .links{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+
+
+
+  .service{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .about{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  .projects{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+
+  }
+
+
+
+
+  .abhtml{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+  }
+.hobbies{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.hobbyh2{
+    display: flex;
+    justify-content: center;
+}
+
+.connectabouth3{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.connectabout{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+
+
+
+.servicemain{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+
+
+.contact{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.contactme{
+  display: flex;
+justify-content: center;
+margin: 2px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* chatgpt */
+
+.contactme {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(27, 102, 89);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contacth2 {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact-input input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.contact-input input:focus {
+  outline: none;
+  border-color: #6c63ff;
+  box-shadow: 0 0 5px rgba(108, 99, 255, 0.5);
+}
+
+.contact-input button {
+  width: 100%;
+  padding: 10px;
+  background-color: #6c63ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-input button:hover {
+  background-color: #554ed8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* card styling in projects.html */
+
+
+
+
+.card {
+  width: 300px;
+  background-color: rgb(19, 85, 75);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+.card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.card-description {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.card-button {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.card-button:hover {
+  background-color: #0056b3;
+}
+
+.projectbox{
+  
+
+display: flex;
+flex-direction: row;
+justify-content: space-around; /* Distributes the cards equally */
+flex-wrap: wrap; /* Allows cards to wrap to the next line if necessary */
+gap: 20px; /* Adds space between the cards */
+padding: 20px;
+}
